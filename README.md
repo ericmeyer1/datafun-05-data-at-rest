@@ -1,6 +1,5 @@
 Eric Meyer
 Data Analytics Fundamentals Project 5
-Domain: Human Resources
 
 The goal of this project is to gain skills with:
 - Reading from data files
